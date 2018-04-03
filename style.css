@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+     background: linear-gradient(whitesmoke, deeppink);
+}
+
+#animation1 {
+    color: hsl(328, 100%, 54%);
+}
+
+#animation2 {
+    color:  hsl(328, 100%, 71%);
+}
+
+#animation3 {
+    color: hsl(327, 100%, 80%);
+}
+
+#animation4 {
+    color: hsl(328, 100%, 95%);
+}
